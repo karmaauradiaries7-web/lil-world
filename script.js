@@ -5,7 +5,7 @@
 const CFG = {
   name: "Fami", nick: "Ammu", pet: "Bubu",      // "Ammu"/"Bubu" in any text below are swapped for these
   year: 2026,                                      // "2026" in any text is swapped for this
-  music: "audio/Railin%20Oligal.mp3",
+  music: "audio/love%20song.mp3.mp3",
   whispers: ["Love you 3000 times","Ammu","Chello","Buju","Bubu","Honey","Barbie","Doll"],
   opening: {
     title: "For My Ammu… ❤️", cine: "If I Could Replay Tonight…",
